@@ -9,6 +9,7 @@ public class Poc1StudentInfoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Poc1StudentInfoApplication.class, args);
 		System.out.println("Hii Git hub");
+		System.out.println("Hii Git hub");
 	}
 
 }
