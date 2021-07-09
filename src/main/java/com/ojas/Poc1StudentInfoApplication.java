@@ -10,6 +10,7 @@ public class Poc1StudentInfoApplication {
 		SpringApplication.run(Poc1StudentInfoApplication.class, args);
 		System.out.println("Hii Git hub");
 		System.out.println("Hii Git hub");
+		System.out.println("Hii Git hub");
 	}
 
 }
