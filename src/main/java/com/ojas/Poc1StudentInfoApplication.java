@@ -11,6 +11,7 @@ public class Poc1StudentInfoApplication {
 		System.out.println("Hii Git hub");
 		System.out.println("Hii Git hub");
 		System.out.println("Hii Git hub");
+		System.out.println("Hii Gituu hub");
 	}
 
 }
